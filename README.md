@@ -27,3 +27,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+
+
+In this lab we will be creating tickets and resolving them. 
+
+
+Step-1 Login as "Jane Doe"
+
